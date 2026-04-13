@@ -1,5 +1,9 @@
 # Primera-Hackaton-de-modelamiento-Matematico-FCFM
 Fingerprint Obfuscation algorithm that changes the fingerprint so its not recognizable as the original persons fingerprint and also leaves no evidence of tampering. 
+<div align="center">
+  <img src="https://github.com/Rajevic-0/Primera-Hackaton-de-modelamiento-Matematico-FCFM/blob/main/Example.png">
+</div>
+
 
 ## 🥈 2nd Place 
 Members: 
